@@ -1,2 +1,2 @@
-# firstprogram
-in this learn about ml 
+# intro vs extro program
+In this code  
